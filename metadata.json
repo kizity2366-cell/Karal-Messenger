@@ -1,0 +1,6 @@
+{
+  "name": "Karal Messenger",
+  "description": "Premium multi-feature messenger with Gemini-powered Karal AI assistant, interactive channels, custom chat skins, full-text search, disappearing messages, reactions, and local Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
